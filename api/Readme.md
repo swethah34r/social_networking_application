@@ -13,8 +13,8 @@ Welcome to the Django Project! This README will guide you through setting up and
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/swethah34r/social_networking_application
+    cd social_networking_applicationPublic/api
     ```
 
 2. **Create a virtual environment**
